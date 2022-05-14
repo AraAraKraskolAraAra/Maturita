@@ -9,8 +9,11 @@
     <Compile Remove="Biskece.cs" />
     <Compile Remove="Break vs Continue.cs" />
     <Compile Remove="Cramerovo pravidlo 1.0.cs" />
+    <Compile Remove="Cramerovo pravidlo 2.0.cs" />
     <Compile Remove="Delegat.cs" />
+    <Compile Remove="e na x.cs" />
     <Compile Remove="Fail.cs" />
+    <Compile Remove="Faktorial.cs" />
     <Compile Remove="Fibunači.cs" />
     <Compile Remove="Hězdička - Kopie %283%29.cs" />
     <Compile Remove="Hězdička - Kopie %284%29.cs" />
@@ -19,10 +22,6 @@
     <Compile Remove="Hězdička - Kopie.cs" />
     <Compile Remove="Hězdička.cs" />
     <Compile Remove="Indexovaný seznam.cs" />
-    <Compile Remove="Jména sting - Kopie %2811%29.cs" />
-    <Compile Remove="Jména sting - Kopie %282%29.cs" />
-    <Compile Remove="Jména sting - Kopie %284%29.cs" />
-    <Compile Remove="Jména sting - Kopie %285%29.cs" />
     <Compile Remove="Jména sting - Kopie %286%29.cs" />
     <Compile Remove="Jména sting - Kopie %287%29.cs" />
     <Compile Remove="Jména sting - Kopie %288%29.cs" />
@@ -30,6 +29,7 @@
     <Compile Remove="Jména sting - Kopie.cs" />
     <Compile Remove="Jména sting.cs" />
     <Compile Remove="Krug.cs" />
+    <Compile Remove="Lichoběž.cs" />
     <Compile Remove="List abs hodnoa.cs" />
     <Compile Remove="LSS.cs" />
     <Compile Remove="Newtonova metoda.cs" />
@@ -57,8 +57,12 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="Prvočíslo.cs" />
     <Compile Remove="Regula Falsi.cs" />
+    <Compile Remove="Simpsonovo pravidlo.cs" />
     <Compile Remove="Trojúhelník.cs" />
     <Compile Remove="čtení.cs" />
+    <Compile Remove="Číslo max.cs" />
+    <Compile Remove="Řazení MIsha.cs" />
+    <Compile Remove="Řazení zkoužka.cs" />
     <Compile Remove="Řazení.cs" />
   </ItemGroup>
 
